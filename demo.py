@@ -1,1 +1,1 @@
-print('hello github nice to meet you only push not web login!')
+print('hello PY for CLUN!')
